@@ -38,7 +38,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://github.com/Bilalmhmd" alt="Bilalmhmd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilalmhmd" alt="Bilalmhmd" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
