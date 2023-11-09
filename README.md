@@ -1,43 +1,52 @@
-<h2 align="left">Hi 👋! My name is Bilal El_qaqei and I'm an Embedded software engineer.</h2>
 
-###
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<img align="right" height="150" src="https://scontent.faly2-1.fna.fbcdn.net/v/t39.30808-6/321100615_734900751330502_7804165094549757365_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2Q0dksbStPcAX9pc6Qx&_nc_ht=scontent.faly2-1.fna&oh=00_AfCp8j7FhktOG-YDbh1EWByCkdDTcmCeDiMDgjHDMDduGw&oe=653C617B"  />
+<h2> Hey there! I'm Bilal.</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/bilal_k3ka3y/?hl=ur" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=ar#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bilal-mohamed-el-qeqei-9681a3211/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100011705387780" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-###
+I'm a communication and electronics student who is passionate about Embedded Software.
 
+- 🎓 &nbsp; I’m graduated from HTI
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bilal-mohamed-el-qeqei-9681a3211/) [Gmail](https://www.bilalkkay@gmail.com)
+
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+
+- 💻 &nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+  
+<br/>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://github.com/Bilalmhmd" alt="Bilalmhmd" /> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📊 Profile stats
+
+[![Bilalmhmd 's github stats](https://github-readme-stats.vercel.app/api?username=Bilalmhmd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Bilalmhmd)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+</p>
